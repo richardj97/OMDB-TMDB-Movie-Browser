@@ -1,0 +1,5 @@
+﻿v012 - Fixed the search by changing the title to imdbId
+v012 - Added a number of titles that the user has seen in the search category
+v013 - Added additional movie information (form)
+v015 - Added Wish list + Seen list
+v015 - Added loading gif with a background threat process running the query
