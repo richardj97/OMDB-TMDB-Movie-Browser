@@ -15,18 +15,18 @@ namespace Movie_InterfaceAPI
         public static readonly string singleAddress = "https://api.themoviedb.org/3/";
         public static readonly string multipleAddress = "https://api.themoviedb.org/3/";
         public static readonly string tmdbAddress = "https://api.themoviedb.org/3/";
-		public static readonly string posterUrl = "https://image.tmdb.org/t/p/w500/";
+	public static readonly string posterUrl = "https://image.tmdb.org/t/p/w500/";
 
-	}
-	public class TmdbImdb
-	{
-		public string imdb_id { get; set; }
-	}
+    }
+    public class TmdbImdb
+    {
+	public string imdb_id { get; set; }
+    }
     public class TmdbEntity
     {
         public List<TmdbEntity> results { get; set; }
-		public List<TmdbEntity> movie_results { get; set; }
-		public string adult { get; set; }
+	public List<TmdbEntity> movie_results { get; set; }
+	public string adult { get; set; }
         public string backdrop_path { get; set; }
         public string belongs_to_collection { get; set; }
         public string budget { get; set; }
