@@ -19,3 +19,5 @@ Change API Keys:
         public static readonly string tmdbAddress = "https://api.themoviedb.org/3/";
         public static readonly string posterUrl = "https://image.tmdb.org/t/p/w500/";
     }
+
+Authors: Richard Jacobs, Simon West, Alisdair Keay, Diogo Ribeiro and Jason Malcolm
