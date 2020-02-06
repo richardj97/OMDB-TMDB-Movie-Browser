@@ -1,6 +1,6 @@
 Program created in C# Window Forms
 
-It Uses 2 movie APIs to search for movies. You can add movies into your wish list, seen list and view more info
+It uses 2 movie APIs to search for movies. You can add movies into your wish list, seen list and view more info
 
 Change API Keys:
 
